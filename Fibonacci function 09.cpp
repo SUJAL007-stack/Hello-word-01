@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int function(int n)
+int fibonacci(int n)
 {
     int n1=0,n2=1,n3,i;
     for(i=1;i<=n;i++){
